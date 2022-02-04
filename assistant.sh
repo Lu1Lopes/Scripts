@@ -1,6 +1,6 @@
 #!/bin/bash
 
-scriptPath="/home/$USER/Git/Files/assistant.sh"
+scriptPath="/home/$USER/Git/script/assistant.sh"
 browser=vivaldi
 
 clear
